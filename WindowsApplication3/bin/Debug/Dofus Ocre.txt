@@ -1,0 +1,10 @@
+/*Dofus Ocre*\
+SQL
+INSERT INTO quests(id,startQuestion,endQuestion,minLvl,unique) VALUES ('152','0','0','1','0');
+INSERT INTO quest_steps(id, question, gainExp, gainKamas) VAUES('1','3','1000','5');
+INSERT INTO quest_steps(id, question, gainExp, gainKamas) VAUES('2','3','10000','50');
+
+SWF
+Q.q[152] = "Dofus Ocre";
+Q.s[1] = {n: "Donjon Bouftou", d: "Tu doit tuer le bouftou royal."};
+Q.s[2] = {n: "Donjon Champs", d: "Tu doit tuer le tournesol sauvage."};

@@ -1,0 +1,4 @@
+/*Undefined*\
+INSERT INTO quests(id,steps,startQuestion,endQuestion,minLvl,unique) VALUES ('0','','0','0','1','0');
+
+Q.q[0] = "Undefined";

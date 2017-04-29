@@ -1,0 +1,6 @@
+/*Dofus Ocre*\
+INSERT INTO quests(id,steps,startQuestion,endQuestion,minLvl,unique) VALUES ('1','1','1','5','1','1');
+INSERT INTO quest_steps(id, question, gainExp, gainKamas, gainItems) VAUES('1','2','1000000','1000','');
+
+Q.q[1] = "Dofus Ocre";
+Q.s[1] = {n: "Trouver perlinpinpin", d: "Vous devez cherche perlinpinpin, dans la zone d'astrub.", r: [1000000, 1000, null, null, null, null]};

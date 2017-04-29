@@ -1,0 +1,27 @@
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\bin\Debug\Quests Editor.exe.config
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\bin\Debug\Quests Editor.exe
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\bin\Debug\Quests Editor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\bin\Debug\Quests Editor.xml
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests_Editor.NSTheme.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests_Editor.editor.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests_Editor.Resources.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests Editor.vbproj.GenerateResource.Cache
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests Editor.exe
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests Editor.xml
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\WindowsApplication3\WindowsApplication3\obj\Debug\Quests Editor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\bin\Debug\Quests Editor.exe.config
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.exe
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.xml
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\bin\Debug\Quests Editor.exe
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\bin\Debug\Quests Editor.pdb
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\bin\Debug\Quests Editor.xml
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests_Editor.NSTheme.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests_Editor.editor.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests_Editor.Resources.resources
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.vbproj.GenerateResource.Cache
+C:\Users\raphael\SkyDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests_Editor.afficheur.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\bin\Debug\Quests Editor.exe.config
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.xml
+C:\Users\raphael\OneDrive\Documents\APPLICATION\VB.NET\Quest Editor v2\WindowsApplication3\obj\Debug\Quests Editor.pdb

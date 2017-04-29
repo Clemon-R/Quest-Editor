@@ -1,0 +1,6 @@
+/*test*\
+INSERT INTO quests(id,steps,startQuestion,endQuestion,minLvl,unique) VALUES ('0','0','0','0','1','0');
+INSERT INTO quest_steps(id, question, gainExp, gainKamas, gainItems) VAUES('0','0','0','0','30100,5');
+
+Q.q[0] = "test";
+Q.s[0] = {n: "Undefined", d: "Undefined", r: [null, null, [[30100, 5]], null, null, null]};
